@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umer Aadil</h1>
-<h3 align="center">A Passionate Software Engineer from Kashmir India</h3>
+<h3 align="center">A Passionate Web 3.0 Decentralized developer and Software Engineer from Kashmir India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeraadil&label=Profile%20views&color=0e75b6&style=flat" alt="umeraadil" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Face Mask Detection](https://github.com/Umeraadil/Face_Mask_DET)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning and BlockChain**
 
 - 👯 I’m looking to collaborate on [Department Management System North Campus UOK](https://github.com/darubaidnazir/DMS)
 

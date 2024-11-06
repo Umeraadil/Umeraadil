@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Department Management System North Campus UOK](https://github.com/darubaidnazir/DMS)
 
-- 🤝 I’m looking for help with [Face Mask Detection (Open Source)](https://github.com/Umeraadil/Face_Mask_DET)
+- 🤝 I’m looking for help with [Face Mask Detection (Open Source)](https://github.com/Umeraadil/Evaluation-of-Machine-Learning-and-Deep-Learning-CNN--Based-Algorithms-for-Human-Face-Mask-Detection)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Umeraadil](https://github.com/Umeraadil)
 

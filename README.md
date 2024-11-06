@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/umer_aadil" target="blank"><img src="https://img.shields.io/twitter/follow/umer_aadil?logo=twitter&style=for-the-badge" alt="umer_aadil" /></a> </p>
 
-- 🔭 I’m currently working on [Face Mask Detection](https://github.com/Umeraadil/Face_Mask_DET)
+- 🔭 I’m currently working on [Face Mask Detection](https://github.com/Umeraadil/Evaluation-of-Machine-Learning-and-Deep-Learning-CNN--Based-Algorithms-for-Human-Face-Mask-Detection)
 
 - 🌱 I’m currently learning **Machine Learning and BlockChain**
 

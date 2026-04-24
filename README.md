@@ -1,40 +1,237 @@
-<h1 align="center">Hi 👋, I'm Umer Aadil</h1>
-<h3 align="center">A Passionate Web 3.0 Decentralized developer and Software Engineer from Kashmir India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umeraadil&label=Profile%20views&color=0e75b6&style=flat" alt="umeraadil" /> </p>
+<!-- Dynamic Typing Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Umer+Aadil;Data+Analyst+%7C+BI+Specialist;AI+%26+Analytics+Engineer;Turning+Data+into+Decisions+%F0%9F%93%8A" alt="Typing SVG" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umeraadil" alt="umeraadil" /></a> </p>
+<br/>
 
-<p align="left"> <a href="https://twitter.com/umer_aadil" target="blank"><img src="https://img.shields.io/twitter/follow/umer_aadil?logo=twitter&style=for-the-badge" alt="umer_aadil" /></a> </p>
+<!-- Profile Views & Followers -->
+<img src="https://komarev.com/ghpvc/?username=umeraadil&label=Profile%20Views&color=2f81f7&style=flat-square" alt="Profile Views" />
+&nbsp;
+<a href="https://github.com/Umeraadil?tab=followers"><img src="https://img.shields.io/github/followers/umeraadil?label=Followers&style=flat-square&color=2f81f7" /></a>
 
-- 🔭 I’m currently working on [Face Mask Detection](https://github.com/Umeraadil/Evaluation-of-Machine-Learning-and-Deep-Learning-CNN--Based-Algorithms-for-Human-Face-Mask-Detection)
+<br/><br/>
 
-- 🌱 I’m currently learning **Machine Learning and BlockChain**
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=120&section=header&text=Data%20Analyst%20%7C%20BI%20%7C%20AI%20Specialist&fontSize=28&fontColor=ffffff&fontAlignY=60&animation=fadeIn" width="100%"/>
 
-- 👯 I’m looking to collaborate on [Department Management System North Campus UOK](https://github.com/darubaidnazir/DMS)
+</div>
 
-- 🤝 I’m looking for help with [Face Mask Detection (Open Source)](https://github.com/Umeraadil/Evaluation-of-Machine-Learning-and-Deep-Learning-CNN--Based-Algorithms-for-Human-Face-Mask-Detection)
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Umeraadil](https://github.com/Umeraadil)
+## 🧑‍💼 About Me
 
-- 💬 Ask me about **Computer Science**
+```yaml
+Name        : Umer Aadil
+Role        : Data Analyst | Business Intelligence | AI & Analytics Specialist
+Experience  : 4+ Years across Higher Education & BPO Sectors
+Location    : Riyadh, Saudi Arabia 🇸🇦 | Open to Remote / WFH (PAN India)
+Education   : MCA – University of Kashmir | BCA – University of Kashmir
+Currently   : Data & AI Lab Analyst @ King Saud University (KSU)
+Passions    : Data Storytelling, KPI Dashboards, Predictive Analytics, AI Integration
+Contact     : umeraadil77@gmail.com
+```
 
-- 📫 How to reach me **umeraadil77@gmail.com**
+> *"Data is not just numbers — it's the story of every decision waiting to be told."*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/umer_aadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umer_aadil" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/umeraadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umeraadil" height="30" width="40" /></a>
-<a href="https://fb.com/umer.aadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="umer.aadil" height="30" width="40" /></a>
-<a href="https://instagram.com/umer_aadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umer_aadil" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 🛠️ Tech Stack & Skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umeraadil&show_icons=true&locale=en&layout=compact" alt="umeraadil" /></p>
+### 📊 Data Analysis & BI
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umeraadil&show_icons=true&locale=en" alt="umeraadil" /></p>
+### 💻 Programming & Databases
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umeraadil&" alt="umeraadil" /></p>
+### 🤖 AI & Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP%20Basics-8E44AD?style=for-the-badge&logo=openai&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 💼 Professional Experience
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏛️ King Saud University (KSU)
+**Data & AI Lab Analyst / IT Operations Specialist**
+📍 Riyadh, Saudi Arabia | 🗓️ Aug 2023 – Present
+
+- 📈 Built Excel + Power BI dashboards tracking **200+ user KPIs**
+- 🔬 Performed **EDA on student performance datasets** across multiple cohorts
+- 📚 Co-authored chapter in **KSU Press 2025** reference book on AI & Computer Skills
+- ⚙️ Integrated AI tools into operational workflows — cutting data processing time
+- 🛡️ Maintained **100% data accuracy** across administrative records
+
+</td>
+<td width="50%">
+
+### 🏢 Concentrix
+**Operations Representative & Analyst**
+📍 India | 🗓️ Aug 2022 – Jun 2023
+
+- 📊 Monitored real-time KPIs: **AHT, CSAT, FCR, SLA adherence**
+- 🔍 Performed **Root Cause Analysis (RCA)** using CRM & ticketing data
+- 📋 Delivered **MIS reports & dashboards** for weekly business reviews
+- 🗃️ Maintained CRM data with strict governance & compliance standards
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏫 Shining Star Public School
+**IT Operations & Data Coordinator**
+📍 India | 🗓️ 2019 – 2021
+
+- 🗂️ Managed structured databases for **attendance & performance metrics**
+- 📊 Developed Excel-based data management & analytical reporting tools
+- 📝 Standardised data entry workflows for improved record accuracy
+
+</td>
+<td width="50%">
+
+### 🏆 Key Achievements
+
+- 🥇 **2+ years managing AI Lab** for one of the Middle East's top institutions
+- 📖 **Published author** in a KSU university reference book (2025)
+- ⚡ **Streamlined MIS pipelines** at Concentrix — reduced report turnaround time
+- 🎓 **HP LIFE Certified** in Data Science & Analytics
+- 📊 Delivered analytics insights to **200+ end-users** at KSU
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎭 Face Mask Detection (ML/CV)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Umeraadil/Evaluation-of-Machine-Learning-and-Deep-Learning-CNN--Based-Algorithms-for-Human-Face-Mask-Detection)
+
+> Evaluation of ML & Deep Learning CNN-Based Algorithms for Human Face Mask Detection. Comparative analysis of multiple classification models.
+
+**Tech:** `Python` `OpenCV` `TensorFlow` `scikit-learn` `CNN`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏛️ Department Management System
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/darubaidnazir/DMS)
+
+> University Department Management System for North Campus, University of Kashmir. Collaborative academic software project.
+
+**Tech:** `Database Design` `RDBMS` `SQL` `System Design`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Data Analytics Portfolio
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Umeraadil)
+
+> Collection of data analysis notebooks, Power BI dashboards, EDA projects, and SQL exercises demonstrating end-to-end analytics workflows.
+
+**Tech:** `Python` `Pandas` `Power BI` `MySQL` `Excel`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Lab Operations (KSU)
+> Internal analytics system for managing AI Lab operations — equipment tracking, user performance dashboards, KPI reporting, and semester-level insights.
+
+**Tech:** `Excel` `Power BI` `Python` `SQL` `EDA`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📜 Certifications & Education
+
+| 🏅 Certification | 🏢 Issuer | 📌 Status |
+|---|---|---|
+| Data Science & Analytics | HP LIFE (Hewlett Packard Enterprise) | ✅ Completed |
+| Google Data Analytics Professional | Coursera / Google | 🔄 In Progress |
+| Microsoft Power BI Data Analyst Associate (PL-300) | Microsoft | 🔄 In Progress |
+
+| 🎓 Degree | 🏛️ Institution | 📅 Year |
+|---|---|---|
+| Master of Computer Applications (MCA) | University of Kashmir | 2022 |
+| Bachelor of Computer Applications (BCA) | University of Kashmir | 2018 |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=umeraadil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umeraadil&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=umeraadil&theme=tokyonight&hide_border=true" height="165"/>
+
+<br/><br/>
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=umeraadil&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umeraadil)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umeraadil77@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/umer_aadil)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Umeraadil)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Languages
+
+🇬🇧 **English** — Professional &nbsp;|&nbsp; 🇵🇰 **Urdu / Hindi** — Native &nbsp;|&nbsp; 🇸🇦 **Arabic** — Basic
+
+### 🏢 Open To
+
+`Remote` &nbsp;|&nbsp; `Work From Home` &nbsp;|&nbsp; `Hybrid (PAN India)` &nbsp;|&nbsp; `Immediate Availability`
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=100&section=footer" width="100%"/>
+
+</div>

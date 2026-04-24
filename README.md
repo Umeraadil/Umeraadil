@@ -97,17 +97,6 @@ Contact     : umeraadil77@gmail.com
 <tr>
 <td width="50%">
 
-### 🏫 Shining Star Public School
-**IT Operations & Data Coordinator**
-📍 India | 🗓️ 2019 – 2021
-
-- 🗂️ Managed structured databases for **attendance & performance metrics**
-- 📊 Developed Excel-based data management & analytical reporting tools
-- 📝 Standardised data entry workflows for improved record accuracy
-
-</td>
-<td width="50%">
-
 ### 🏆 Key Achievements
 
 - 🥇 **2+ years managing AI Lab** for one of the Middle East's top institutions

@@ -154,7 +154,7 @@ analyst = {
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Umeraadil/Umeraadil/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
-*Auto-generated every 12 hours via GitHub Actions — upload snake.yml to activate*
+*Auto-generated every 12 hours via GitHub Actions — upload `snake.yml` to activate*
 
 </div>
 
